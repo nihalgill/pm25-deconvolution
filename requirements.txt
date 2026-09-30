@@ -1,0 +1,5 @@
+# Tested on Python 3.10 and 3.12, with both the minimum versions below and
+# numpy 2.5, scipy 1.18, and matplotlib 3.11.
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
